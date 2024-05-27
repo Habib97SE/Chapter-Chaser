@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "55A41100-FB21-4A26-8F0E-C1FCFB4C8E50",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Chapter Chaser.xcodeproj",
+      "identifier" : "29B8A55E2B8FDB2500267E7B",
+      "name" : "Chapter Chaser"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Chapter Chaser.xcodeproj",
+        "identifier" : "29B8A56E2B8FDB2700267E7B",
+        "name" : "Chapter ChaserTests"
+      }
+    }
+  ],
+  "version" : 1
+}
