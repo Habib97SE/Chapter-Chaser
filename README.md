@@ -23,7 +23,7 @@ Chapter Chaser is a SwiftUI-based iOS app designed to help book enthusiasts disc
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/ChapterChaser.git
+git clone https://github.com/Habib97SE/Chapter-Chaser.git
 ```
 
 - Open the ```ChapterChaser.xcodeproj``` file in Xcode.
